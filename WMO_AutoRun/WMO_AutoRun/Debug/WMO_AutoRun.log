@@ -1,0 +1,4 @@
+﻿  Main.cpp
+c:\users\james\documents\visual studio 2017\projects\wmo_autorun\wmo_autorun\main.cpp(14): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  WMO_AutoRun.vcxproj -> C:\Users\James\documents\visual studio 2017\Projects\WMO_AutoRun\Debug\WMO_AutoRun.exe
+  WMO_AutoRun.vcxproj -> C:\Users\James\documents\visual studio 2017\Projects\WMO_AutoRun\Debug\WMO_AutoRun.pdb (Partial PDB)

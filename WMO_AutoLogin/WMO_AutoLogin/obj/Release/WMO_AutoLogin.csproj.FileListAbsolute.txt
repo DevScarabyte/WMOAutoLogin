@@ -1,0 +1,9 @@
+C:\Users\James\documents\visual studio 2017\Projects\WMO_AutoLogin\WMO_AutoLogin\bin\Release\WMO_AutoLogin.exe.config
+C:\Users\James\documents\visual studio 2017\Projects\WMO_AutoLogin\WMO_AutoLogin\bin\Release\WMO_AutoLogin.exe
+C:\Users\James\documents\visual studio 2017\Projects\WMO_AutoLogin\WMO_AutoLogin\bin\Release\WMO_AutoLogin.pdb
+C:\Users\James\documents\visual studio 2017\Projects\WMO_AutoLogin\WMO_AutoLogin\obj\Release\WMO_AutoLogin.csprojResolveAssemblyReference.cache
+C:\Users\James\documents\visual studio 2017\Projects\WMO_AutoLogin\WMO_AutoLogin\obj\Release\WMO_AutoLogin.WMOAutoLogin.resources
+C:\Users\James\documents\visual studio 2017\Projects\WMO_AutoLogin\WMO_AutoLogin\obj\Release\WMO_AutoLogin.Properties.Resources.resources
+C:\Users\James\documents\visual studio 2017\Projects\WMO_AutoLogin\WMO_AutoLogin\obj\Release\WMO_AutoLogin.csproj.GenerateResource.Cache
+C:\Users\James\documents\visual studio 2017\Projects\WMO_AutoLogin\WMO_AutoLogin\obj\Release\WMO_AutoLogin.exe
+C:\Users\James\documents\visual studio 2017\Projects\WMO_AutoLogin\WMO_AutoLogin\obj\Release\WMO_AutoLogin.pdb

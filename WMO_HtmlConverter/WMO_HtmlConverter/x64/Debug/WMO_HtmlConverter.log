@@ -1,0 +1,11 @@
+﻿  HTMLReader.cpp
+c:\users\james\documents\visual studio 2017\projects\wmo_htmlconverter\wmo_htmlconverter\htmlreader.h(20): warning C4091: 'typedef ': ignored on left of 'ShiftData' when no variable is declared
+c:\users\james\documents\visual studio 2017\projects\wmo_htmlconverter\wmo_htmlconverter\htmlreader.cpp(97): warning C4244: 'return': conversion from '__int64' to 'int', possible loss of data
+  Generating Code...
+  Compiling...
+  Main.cpp
+c:\users\james\documents\visual studio 2017\projects\wmo_htmlconverter\wmo_htmlconverter\htmlreader.h(20): warning C4091: 'typedef ': ignored on left of 'ShiftData' when no variable is declared
+c:\users\james\documents\visual studio 2017\projects\wmo_htmlconverter\wmo_htmlconverter\main.cpp(6): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Generating Code...
+  WMO_HtmlConverter.vcxproj -> C:\Users\James\documents\visual studio 2017\Projects\WMO_HtmlConverter\x64\Debug\WMO_HtmlConverter.exe
+  WMO_HtmlConverter.vcxproj -> C:\Users\James\documents\visual studio 2017\Projects\WMO_HtmlConverter\x64\Debug\WMO_HtmlConverter.pdb (Partial PDB)
